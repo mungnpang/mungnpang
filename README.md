@@ -6,10 +6,12 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hi, I am Jacob<br/>
+  back-end oriented developer studying machine learning.<br/>
+  mainly handling Python / Flask / DJango.<br/>
+  but also been familiar with sort of front-end tasks like html css<br/>
+  my gold is to be irreplaceable competent developer who doesn't stop learning<br/>
+  wish all of you guys visiting here be happy everyday ..✨ <br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mungnpang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mungnpang&layout=compact&hide_border=true&theme=white)
