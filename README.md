@@ -10,7 +10,7 @@
   back-end oriented developer studying machine learning.<br/>
   mainly handling Python / Flask / DJango.<br/>
   but also been familiar with sort of front-end tasks like html css<br/>
-  my gold is to be an irreplaceable competent developer who doesn't stop learning<br/>
+  my goal is to be an irreplaceable competent developer who doesn't stop learning<br/>
   wish all of you guys visiting here be happy everyday ..✨ <br/><br/>
 </p>
 
